@@ -1,0 +1,7 @@
+F:\DotNetProgramss\Genericss\Genericss\bin\Debug\Genericss.exe.config
+F:\DotNetProgramss\Genericss\Genericss\bin\Debug\Genericss.exe
+F:\DotNetProgramss\Genericss\Genericss\bin\Debug\Genericss.pdb
+F:\DotNetProgramss\Genericss\Genericss\obj\Debug\Genericss.csproj.AssemblyReference.cache
+F:\DotNetProgramss\Genericss\Genericss\obj\Debug\Genericss.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\Genericss\Genericss\obj\Debug\Genericss.exe
+F:\DotNetProgramss\Genericss\Genericss\obj\Debug\Genericss.pdb

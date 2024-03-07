@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\Genericss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|F:\\DotNetProgramss\\Genericss\\genericss\\maximumi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|solutionrelative:genericss\\maximumi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|f:\\dotnetprogramss\\genericss\\genericss\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|solutionrelative:genericss\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|F:\\DotNetProgramss\\Genericss\\genericss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|solutionrelative:genericss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|F:\\DotNetProgramss\\Genericss\\genericss\\printarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|solutionrelative:genericss\\printarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|F:\\DotNetProgramss\\Genericss\\genericss\\genericprintarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|solutionrelative:genericss\\genericprintarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|f:\\dotnetprogramss\\genericss\\genericss\\stringmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|solutionrelative:genericss\\stringmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|F:\\DotNetProgramss\\Genericss\\genericss\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15B01621-26F2-4BE1-9BA1-FED74A1B2A12}|Genericss\\Genericss.csproj|solutionrelative:genericss\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericClass.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Genericss\\Genericss\\GenericClass.cs",
+              "RelativeDocumentMoniker": "Genericss\\GenericClass.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Genericss\\Genericss\\GenericClass.cs",
+              "RelativeToolTip": "Genericss\\GenericClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T07:10:53.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringMax.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Genericss\\Genericss\\StringMax.cs",
+              "RelativeDocumentMoniker": "Genericss\\StringMax.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Genericss\\Genericss\\StringMax.cs",
+              "RelativeToolTip": "Genericss\\StringMax.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T05:59:01.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaximumI.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Genericss\\Genericss\\MaximumI.cs",
+              "RelativeDocumentMoniker": "Genericss\\MaximumI.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Genericss\\Genericss\\MaximumI.cs",
+              "RelativeToolTip": "Genericss\\MaximumI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T05:17:17.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintArray.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Genericss\\Genericss\\PrintArray.cs",
+              "RelativeDocumentMoniker": "Genericss\\PrintArray.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Genericss\\Genericss\\PrintArray.cs",
+              "RelativeToolTip": "Genericss\\PrintArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:23:45.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Genericss\\Genericss\\App.config",
+              "RelativeDocumentMoniker": "Genericss\\App.config",
+              "ToolTip": "F:\\DotNetProgramss\\Genericss\\Genericss\\App.config",
+              "RelativeToolTip": "Genericss\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-04T11:19:53.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericPrintArray.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Genericss\\Genericss\\GenericPrintArray.cs",
+              "RelativeDocumentMoniker": "Genericss\\GenericPrintArray.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Genericss\\Genericss\\GenericPrintArray.cs",
+              "RelativeToolTip": "Genericss\\GenericPrintArray.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:21:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Genericss\\Genericss\\Program.cs",
+              "RelativeDocumentMoniker": "Genericss\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Genericss\\Genericss\\Program.cs",
+              "RelativeToolTip": "Genericss\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwD8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:23:22.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
